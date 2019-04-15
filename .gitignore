@@ -1,0 +1,10 @@
+### jd2_project_week2 ###
+### IntelliJ IDEA ###
+.ideaDataSources
+.idea
+*.imp
+*.ipr
+*.iws
+
+### Maven ###
+target/
